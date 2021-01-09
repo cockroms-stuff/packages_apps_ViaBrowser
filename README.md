@@ -1,7 +1,7 @@
 # ViaBrowser
 To include add this in device.mk:
 ```
-# ctgcam
+# ViaBrowser
 PRODUCT_PACKAGES += \
     ViaBrowser  
 ```
